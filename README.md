@@ -14,8 +14,11 @@ I'm a 17-year-old student from Pakistan, currently in 11th grade at Concordia Co
 
 > "The future belongs to those who believe in the beauty of their dreams."  
 > — Eleanor Roosevelt
+>
+> "The night is dark. The day is bright. Let's live our lives to the fullest while it's light."
+> —Gintoki Sakata
 
-This quote keeps me motivated, even when my code decides to throw a tantrum.
+This quotes keep me motivated, even when my code decides to throw a tantrum.
 
 ## Let's Connect!
 
