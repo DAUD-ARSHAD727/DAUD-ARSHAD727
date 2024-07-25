@@ -1,5 +1,5 @@
 
-# Hi there, I'm Daud Masih! 👋
+# Hi there, I'm Daud Arshad! 👋
 
 I'm a 17-year-old student from Pakistan, currently in 11th grade at Concordia College. You can call me Daud. I'm passionate about computer science and technology in general. I love diving into the theories behind these amazing machines and exploring how they shape our world.
 
